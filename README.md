@@ -2,10 +2,6 @@
 
 AnonChat is a privacy-first, real-time, 1-to-1 anonymous chat platform with AI-backed human verification, safety controls, and a Redis-powered matchmaking queue. The system is built to be stateless for chat content and scalable across multiple server instances.
 
-**Team Name:** Team Knapsack  
-**Team Members:** Sanchit garg, Chinmay soni, Tanish Garg  
-**Hackathon:** Klymo Ascent 1.0
-
 ## What This Project Delivers
 
 AnonChat focuses on "controlled anonymity": users remain anonymous, but the platform enforces safety and fairness via verification, rate limits, and abuse prevention.
